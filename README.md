@@ -1,0 +1,2 @@
+# FattyLiverPrediction
+使用多种机器学习方法进行糖尿病患者识别
